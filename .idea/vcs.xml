@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FreeCodeCamp-Pandas-Real-Life-Example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ds-content-interactive-jupyterlab-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/freecodecamp-intro-to-numpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/freecodecamp-intro-to-pandas" vcs="Git" />
+  </component>
+</project>
